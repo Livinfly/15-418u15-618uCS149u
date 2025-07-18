@@ -1,0 +1,67 @@
+Test ./myexp -s 10000
+
+Vector_Width = 2:
+
+[1;31mCLAMPED EXPONENT[0m (required) 
+Results matched with answer!
+****************** Printing Vector Unit Statistics *******************
+Vector Width:              2
+Total Vector Instructions: 172728
+Vector Utilization:        83.8%
+Utilized Vector Lanes:     289354
+Total Vector Lanes:        345456
+************************ Result Verification *************************
+Passed!!!
+
+[1;31mARRAY SUM[0m (bonus) 
+Expected 9825.218750, got 0.000000
+.@@@ Failed!!!
+Vector_Width = 4:
+[1;31mCLAMPED EXPONENT[0m (required) 
+Results matched with answer!
+****************** Printing Vector Unit Statistics *******************
+Vector Width:              4
+Total Vector Instructions: 99576
+Vector Utilization:        78.6%
+Utilized Vector Lanes:     313250
+Total Vector Lanes:        398304
+************************ Result Verification *************************
+Passed!!!
+
+[1;31mARRAY SUM[0m (bonus) 
+Expected 9825.218750, got 0.000000
+.@@@ Failed!!!
+
+Vector_Width = 8:
+
+[1;31mCLAMPED EXPONENT[0m (required) 
+Results matched with answer!
+****************** Printing Vector Unit Statistics *******************
+Vector Width:              8
+Total Vector Instructions: 54128
+Vector Utilization:        76.0%
+Utilized Vector Lanes:     329300
+Total Vector Lanes:        433024
+************************ Result Verification *************************
+Passed!!!
+
+[1;31mARRAY SUM[0m (bonus) 
+Expected 9825.218750, got 0.000000
+.@@@ Failed!!!
+
+Vector_Width = 16:
+
+[1;31mCLAMPED EXPONENT[0m (required) 
+Results matched with answer!
+****************** Printing Vector Unit Statistics *******************
+Vector Width:              16
+Total Vector Instructions: 28218
+Vector Utilization:        74.9%
+Utilized Vector Lanes:     337955
+Total Vector Lanes:        451488
+************************ Result Verification *************************
+Passed!!!
+
+[1;31mARRAY SUM[0m (bonus) 
+Expected 9825.218750, got 0.000000
+.@@@ Failed!!!

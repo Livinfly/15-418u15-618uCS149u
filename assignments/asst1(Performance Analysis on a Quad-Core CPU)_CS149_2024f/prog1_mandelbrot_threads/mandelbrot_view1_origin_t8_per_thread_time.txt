@@ -1,0 +1,45 @@
+[mandelbrot serial]:		[429.554] ms
+Wrote image file mandelbrot-serial.ppm
+NumThread: 8, Thread: 0, Time: 0.007 ms
+NumThread: 8, Thread: 7, Time: 0.008 ms
+NumThread: 8, Thread: 6, Time: 0.034 ms
+NumThread: 8, Thread: 1, Time: 0.037 ms
+NumThread: 8, Thread: 2, Time: 0.070 ms
+NumThread: 8, Thread: 5, Time: 0.072 ms
+NumThread: 8, Thread: 3, Time: 0.106 ms
+NumThread: 8, Thread: 4, Time: 0.106 ms
+NumThread: 8, Thread: 0, Time: 0.006 ms
+NumThread: 8, Thread: 7, Time: 0.008 ms
+NumThread: 8, Thread: 1, Time: 0.034 ms
+NumThread: 8, Thread: 6, Time: 0.035 ms
+NumThread: 8, Thread: 2, Time: 0.070 ms
+NumThread: 8, Thread: 5, Time: 0.070 ms
+NumThread: 8, Thread: 3, Time: 0.105 ms
+NumThread: 8, Thread: 4, Time: 0.105 ms
+NumThread: 8, Thread: 0, Time: 0.006 ms
+NumThread: 8, Thread: 7, Time: 0.008 ms
+NumThread: 8, Thread: 1, Time: 0.034 ms
+NumThread: 8, Thread: 6, Time: 0.034 ms
+NumThread: 8, Thread: 2, Time: 0.070 ms
+NumThread: 8, Thread: 5, Time: 0.070 ms
+NumThread: 8, Thread: 3, Time: 0.105 ms
+NumThread: 8, Thread: 4, Time: 0.105 ms
+NumThread: 8, Thread: 0, Time: 0.007 ms
+NumThread: 8, Thread: 7, Time: 0.008 ms
+NumThread: 8, Thread: 1, Time: 0.034 ms
+NumThread: 8, Thread: 6, Time: 0.035 ms
+NumThread: 8, Thread: 2, Time: 0.069 ms
+NumThread: 8, Thread: 5, Time: 0.070 ms
+NumThread: 8, Thread: 4, Time: 0.105 ms
+NumThread: 8, Thread: 3, Time: 0.105 ms
+NumThread: 8, Thread: 0, Time: 0.006 ms
+NumThread: 8, Thread: 7, Time: 0.008 ms
+NumThread: 8, Thread: 1, Time: 0.035 ms
+NumThread: 8, Thread: 6, Time: 0.035 ms
+NumThread: 8, Thread: 2, Time: 0.070 ms
+NumThread: 8, Thread: 5, Time: 0.070 ms
+NumThread: 8, Thread: 3, Time: 0.104 ms
+NumThread: 8, Thread: 4, Time: 0.105 ms
+[mandelbrot thread]:		[105.281] ms
+Wrote image file mandelbrot-thread.ppm
+				(4.08x speedup from 8 threads)

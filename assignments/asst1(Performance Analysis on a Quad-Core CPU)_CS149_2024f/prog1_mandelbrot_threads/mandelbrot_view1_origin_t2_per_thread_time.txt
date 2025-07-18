@@ -1,0 +1,15 @@
+[mandelbrot serial]:		[429.535] ms
+Wrote image file mandelbrot-serial.ppm
+NumThread: 2, Thread: 0, Time: 0.216 ms
+NumThread: 2, Thread: 1, Time: 0.216 ms
+NumThread: 2, Thread: 1, Time: 0.216 ms
+NumThread: 2, Thread: 0, Time: 0.216 ms
+NumThread: 2, Thread: 0, Time: 0.216 ms
+NumThread: 2, Thread: 1, Time: 0.221 ms
+NumThread: 2, Thread: 1, Time: 0.215 ms
+NumThread: 2, Thread: 0, Time: 0.216 ms
+NumThread: 2, Thread: 0, Time: 0.216 ms
+NumThread: 2, Thread: 1, Time: 0.217 ms
+[mandelbrot thread]:		[215.880] ms
+Wrote image file mandelbrot-thread.ppm
+				(1.99x speedup from 2 threads)
